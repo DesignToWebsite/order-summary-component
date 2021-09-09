@@ -130,11 +130,11 @@ button {
 .btn {
     text-align: center;
     font-size: 16px;
-    width: 90%;
+    width: 80%;
     margin: auto;
     font-weight: 600;
     font-size: 15px;
-    padding: 10px;
+    padding: 16px 10px;
     cursor: pointer;
 }
 
@@ -146,12 +146,12 @@ button {
 }
 
 .btn-1:hover {
-    background-color: var(--ne-desaturated);
+    background-color: #766cf1;
 }
 
 .btn-2 {
     color: var(--ne-desaturated);
-    margin: 20px auto;
+    margin: 10px auto 20px auto;
     border-radius: 20px;
     background: none;
 }
