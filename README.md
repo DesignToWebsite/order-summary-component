@@ -1,4 +1,4 @@
 # order-summary-component
 ## My first challenge on Frontend Mentor
-### link : https://zineb2003.github.io/order-summary-component/site/
-### code : https://github.com/zineb2003/order-summary-component/tree/gh-pages
+### link : https://DesignToWebsite.github.io/order-summary-component/site/
+### code : https://github.com/DesignToWebsite/order-summary-component/tree/gh-pages
